@@ -10,10 +10,10 @@ Understanding the QNX Security in easy way. This tutorial focus on below topics:
 
 # Important References
 
-https://labs.f-secure.com/assets/BlogFiles/mwri-qnx-security-whitepaper-2016-03-14.pdf
-https://github.com/offensive-security/exploitdb/tree/master/exploits/qnx
-https://github.com/alexplaskett/QNXSecurity
-https://github.com/saprykin/plibsys
-https://github.com/varghes/Raspberry-QNX
-https://github.com/zayfod/esp-bin2elf
+* https://labs.f-secure.com/assets/BlogFiles/mwri-qnx-security-whitepaper-2016-03-14.pdf
+* https://github.com/offensive-security/exploitdb/tree/master/exploits/qnx
+* https://github.com/alexplaskett/QNXSecurity
+* https://github.com/saprykin/plibsys
+* https://github.com/varghes/Raspberry-QNX
+* https://github.com/zayfod/esp-bin2elf
 
